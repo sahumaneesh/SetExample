@@ -21,6 +21,8 @@ public class SetExample {
         Iterator<Integer> iterator = set.iterator();
         while(iterator.hasNext()){
         	System.out.println(iterator.next());
+            System.out.println("------------");
+
         }     
 
      }
