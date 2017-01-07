@@ -13,7 +13,7 @@ public class SetExample {
            set.add(count[i]);
         }
         System.out.println("Initial Set=" + set);        
-
+ 
         set.remove(30);        
         System.out.println("Values after delete=" + set);
         System.out.println("------------");
